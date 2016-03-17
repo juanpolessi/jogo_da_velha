@@ -1,0 +1,18 @@
+C:\Users\Juan Polessi\Documents\Visual Studio 2013\Projects\JogoDaVelha\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll.config
+C:\Users\Juan Polessi\Documents\Visual Studio 2013\Projects\JogoDaVelha\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\Juan Polessi\Documents\Visual Studio 2013\Projects\JogoDaVelha\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\Juan Polessi\Documents\Visual Studio 2013\Projects\JogoDaVelha\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+C:\Users\Juan Polessi\Documents\Visual Studio 2013\Projects\JogoDaVelha\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb
+C:\Users\Juan Polessi\Documents\Visual Studio 2013\Projects\JogoDaVelha\SilverlightApplication1.Web\obj\Debug\SilverlightJogoDaVelha.Web.csprojResolveAssemblyReference.cache
+E:\PROJETOS\JogoDaVelha\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll.config
+E:\PROJETOS\JogoDaVelha\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+E:\PROJETOS\JogoDaVelha\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+E:\PROJETOS\JogoDaVelha\SilverlightApplication1.Web\obj\Debug\SilverlightJogoDaVelha.Web.csprojResolveAssemblyReference.cache
+E:\PROJETOS\JogoDaVelha\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+E:\PROJETOS\JogoDaVelha\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb
+C:\Users\juan\Desktop\JogoDaVelha\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll.config
+C:\Users\juan\Desktop\JogoDaVelha\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.dll
+C:\Users\juan\Desktop\JogoDaVelha\SilverlightApplication1.Web\bin\SilverlightApplication1.Web.pdb
+C:\Users\juan\Desktop\JogoDaVelha\SilverlightApplication1.Web\obj\Debug\SilverlightJogoDaVelha.Web.csprojResolveAssemblyReference.cache
+C:\Users\juan\Desktop\JogoDaVelha\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.dll
+C:\Users\juan\Desktop\JogoDaVelha\SilverlightApplication1.Web\obj\Debug\SilverlightApplication1.Web.pdb
